@@ -4,6 +4,8 @@ As a software engineer seeking to expand my skills and deepen my understanding o
 
 The to-do list software allows users to add, edit, delete, sort, and filter tasks dynamically. It incorporates features such as date and time manipulation, task prioritization, and responsive user interface design.
 
+This application was created over the course of two weeks, having 1-2 hours spent daily actively researching necessary functionalities of JavaScript and HTML and then implementing what was learned into the program. In total, approximatly 18 hours were spent developing this app.
+
 # Development Environment
 
 For the development of this software, I used a combination of tools to streamline the process and enhance productivity. These tools include:
